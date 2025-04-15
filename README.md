@@ -1,9 +1,15 @@
 👋 Hi, I’m Yash Surve
+
 💻 Computer Science student | Tech enthusiast
+
 🐍 Skilled in Python, SQL, R, and HTML/CSS/JAVASCRIPT
+
 📐 Hands-on experience with AutoCAD and real-world drafting projects
+
 🌐 Building projects like eCommerce sites, weather apps, and profile pages
+
 🤝 Open to collaborating on web dev and data-driven projects
+
 📫 Reach me at: yashsurve2019@gmail.com
 
 <!---
